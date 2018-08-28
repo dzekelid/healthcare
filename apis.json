@@ -1,0 +1,603 @@
+{
+	"name": "Streadata.io API Gallery - Healthcare",
+	"description": "This is a repository of healthcare APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/healthcare.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://healthcare.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "AT&T Dev Program",
+			"x-api-slug": "att-dev-program",
+			"description": "AT&T Official Site. Premium entertainment, the latest cell phones & tablets, unlimited data plans, and high-speed internet. Join the nations best network today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/156-at&t-dev-program.jpg",
+			"humanURL": "http://att.com",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/att-dev-program/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "eligible",
+			"x-api-slug": "eligible",
+			"description": "Eligible seamlessly integrates with healthcare systems to provide real time eligibility functionality via modern APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/189-eligible.jpg",
+			"humanURL": "https://eligible.com",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/eligible/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Walgreens",
+			"x-api-slug": "walgreens",
+			"description": "Walgreens is your home for Pharmacy, Photo and Health & Wellness products. Refill your prescriptions online, create memories with Walgreens Photo, and shop products for home delivery or Ship to Store. Walgreens. Trusted Since 1901.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/276-walgreens.jpg",
+			"humanURL": "https://walgreens.com",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/walgreens/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AIDS.gov",
+			"x-api-slug": "aids-gov",
+			"description": "HIV.gov is the federal governments leading source for information about HIV.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/323-aids-gov.jpg",
+			"humanURL": "https://www.hiv.gov/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/aids-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Data.Medicare.Gov",
+			"x-api-slug": "data-medicare-gov",
+			"description": "Medicare.gov: the official U.S. government site for Medicare",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/753-data-medicare-gov.jpg",
+			"humanURL": "https://medicare.gov/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/data-medicare-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HealthTap",
+			"x-api-slug": "healthtap",
+			"description": "Secure video or text chat with a doctor anywhere, anytime, 24/7 - get prescriptions, referrals, second opinions and more. Or get trusted answers and tips from tens of thousands of Board Certified doctors now for FREE.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/808-healthtap.jpg",
+			"humanURL": "https://www.healthtap.com",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/healthtap/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MedlinePlus.gov",
+			"x-api-slug": "medlineplus-gov",
+			"description": "Official website of the National Institutes of Health (NIH). NIH is one of the worlds foremost medical research centers. An agency of the U.S. Department of Health and Human Services, the NIH is the Federal focal point for health and medical research....",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/844-medlineplus-gov.jpg",
+			"humanURL": "http://www.nlm.nih.gov/medlineplus/webservices.html",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/medlineplus-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Healthfinder.gov",
+			"x-api-slug": "healthfinder-gov",
+			"description": "When making decisions about your health, its important to know where to get the most reliable information. At https://healthfinder.gov and https://healthfinder.gov/myhealthfinder we connect you with science-based prevention and wellness information yo...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1068-healthfinder-gov.jpg",
+			"humanURL": "http://healthfinder.gov",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/healthfinder-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Healthnotes",
+			"x-api-slug": "healthnotes",
+			"description": "Cloud-based compliance and education solutions from the Supplement Experts. Vitature and Aisle7 are specifically for the dietary supplement industry.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1332-healthnotes.jpg",
+			"humanURL": "http://healthnotes.com/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/healthnotes/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Practice Fusion",
+			"x-api-slug": "practice-fusion",
+			"description": "Find out all you need to know about EHRs from the #1 cloud-based electronic health record platform for doctors and patients. Get the latest news, tips and updates on EHR, QPP, CMS and Healthcare research and data. Our experts will guide help guide you ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1354-practice-fusion.jpg",
+			"humanURL": "http://www.practicefusion.com/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/practice-fusion/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Cancer",
+			"x-api-slug": "the-cancer",
+			"description": "CancerAPI.org is the home of CANAPI, a platform for building applications focused on helping users find, follow and share information about emerging innovations in the fight against cancer",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/canapi-logo.png",
+			"humanURL": "http://cancerapi.org/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/the-cancer/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Open PHACTS",
+			"x-api-slug": "open-phacts",
+			"description": "Build with the Open PHACTS Discovery Platform. The platform provides a convenient API to query across multiple pharmacology datasets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/OPS_logo_300_dpi_no_OPS.jpg",
+			"humanURL": "http://openphacts.org",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/open-phacts/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Magnus Health",
+			"x-api-slug": "magnus-health",
+			"description": "Magnus Health is an online software solution for collecting, managing, and securely storing student health information for K-12 schools and colleges.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1894-magnus-health.jpg",
+			"humanURL": "http://magnushealth.com",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/magnus-health/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Doximity",
+			"x-api-slug": "doximity",
+			"description": "Over a million U.S. healthcare professionals as verified members. Largest network of MDs and other healthcare professionals. New to Doximity? Find your profile and join for free.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2143-doximity.jpg",
+			"humanURL": "https://www.doximity.com/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/doximity/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Allscripts",
+			"x-api-slug": "allscripts",
+			"description": "Take a closer look at Allscripts. Experience how our EHR, financial management, population health management and precision medicine solutions can give you connected information and insights like never before.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8731-allscripts.jpg",
+			"humanURL": "http://www.allscripts.com/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/allscripts/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "KP Digital Health",
+			"x-api-slug": "kp-digital-health",
+			"description": "Staying healthy is easier with the right support. Visit kp.org to learn how we customize care and coverage just for you.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10089-kp-digital-health.jpg",
+			"humanURL": "https://kp.org",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/kp-digital-health/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "TrueVault",
+			"x-api-slug": "truevault",
+			"description": "TrueVault is a HIPAA compliant data store. We offer healthcare applications a secure API to store protected health information (PHI). TrueVault handles all of the technical requirements mandated by the HIPAA Security Rule. Typical integration takes day...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10375-truevault.jpg",
+			"humanURL": "https://www.truevault.com/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/truevault/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "National Institutes of Health",
+			"x-api-slug": "national-institutes-of-health",
+			"description": "The National Institutes of Health (NIH) is a biomedical research facility primarily located in Bethesda, Maryland, USA. An agency of the United States Department of Health and Human Services, it is the primary agency of the United States government responsible for biomedical and health-related research. The NIH both conducts its own scientific research through its Intramural Research Program (IRP) and provides major biomedical research funding to non-NIH research facilities through its Extramural Research Program. With 1,200 principal investigators and more than 4,000 postdoctoral fellows in basic, translational, and clinical research, the IRP is the largest biomedical research institution on Earth, while, as of 2003, the extramural arm provided 28% of biomedical research funding spent annually in the US, or about US$26.4 billion.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/NIH_Master_Logo_Vertical_2Color.png",
+			"humanURL": "https://federation.nih.gov",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/national-institutes-of-health/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Healthcare.gov",
+			"x-api-slug": "healthcare-gov",
+			"description": "HealthCare.gov is a health insurance exchange website operated under the United States federal government under the provisions of the Patient Protection and Affordable Care Act (ACA, often known as Obamacare), designed to serve the residents of the thirty-six U.S. states that opted not to create their own state exchanges. The exchange facilitates the sale of private health insurance plans to residents of the United States[2] and offers subsidies to those who earn less than four times the federal poverty line. The website also assists those persons who are eligible to sign up for Medicaid, and has a separate marketplace for small businesses.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Healthcare.gov_logo.png",
+			"humanURL": "http://www.healthcare.gov",
+			"baseURL": "https://www.healthcare.gov//",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/healthcare-gov/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PokitDok",
+			"x-api-slug": "pokitdok",
+			"description": "PokitDok Platform (www.pokitdok.com) is delivering the business of health, to developers.  We have gathered the best healthcare data available, and invested heavily in cleaning it, integrating it, and putting it behind a simple API. Now your apps can benefit from our best in class provider data, cash and insurance based pricing, eligibility checks and X12 processing. Sign up today to gain access to JSON based API endpoints and EDI support, and real-time activity tracking.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pokitdok.png",
+			"humanURL": "https://platform.pokitdok.com",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/pokitdok/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "EhrScape",
+			"x-api-slug": "ehrscape",
+			"description": "Health app development shouldnt be harder than other verticals. EhrScape is all about making awesome healthcare apps easy to build and integrate into your environment. Healthcare computing that just works. EhrScape handles all the hard bits, including detailed clinical models, semantic interoperability, vendor independent data storage, health data query and more. Our mission is to empower you to build amazing healthcare apps and services. Welcome aboard. Were just getting started and weve got very big plans!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EHRScape-Logo.png",
+			"humanURL": "https://www.ehrscape.com",
+			"baseURL": "http://rest.ehrscape.com//terminology-adapter/rest",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/ehrscape/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "QI Bench",
+			"x-api-slug": "qi-bench",
+			"description": "Quantitative imaging applications such as imaging biomarkers advance the utility of medical imaging. They may detect and characterize disease, before, during or after a course of therapy. They may also predict the course of disease, with or without therapy.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/qi-bench.jpg",
+			"humanURL": "http://qi-bench.org/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/qi-bench/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Validic",
+			"x-api-slug": "validic",
+			"description": "Validic collects de-identified patient data from wearables, clinical devices and patient healthcare applications. Validic is a behind the scenes IT infrastructure solution where with one simple RESTful API connection to Validic, you have access to the standardized, secure data you need to accelerate your strategic business initiatives, reduce costs and improve patient outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/validic-logo.png",
+			"humanURL": "https://validic.com",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/validic/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BaseHealth",
+			"x-api-slug": "basehealth",
+			"description": "We power evidence-based assessments and detailed action plans spanning each individual&rsquo;s unique activity, diet, environmental and lifestyle needs. The result is engaging, sustained population health.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/basehealth-logo-50294f89.png",
+			"humanURL": "http://www.basehealth.com/",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/basehealth/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BetterDoctor",
+			"x-api-slug": "betterdoctor",
+			"description": "BetterDoctor helps people find and connect to the best doctors through our consumer app, doctor marketing services, and API. Our mission is to help increase transparency in healthcare and help consumers make better decisions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/18991-betterdoctor.jpg",
+			"humanURL": "https://developer.betterdoctor.com",
+			"baseURL": "https://api.betterdoctor.com//2016-03-01",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/betterdoctor/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Infermedica",
+			"x-api-slug": "infermedica",
+			"description": "At Infermedica we believe in people. Every team member brings unique skills, talent and knowledge. Together we solve the most complex healthcare problems. Infermedica improves the diagnostic process using the most advanced reasoning technology for preliminary medical diagnosis.White-labelled enterprise platform (web, mobile, chatbot or voice-enabled applications) for symptom checking, patient triage and clinical decision support. Open developer portal that allows to easily integrate our diagnostic engine into 3rd party software.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/infermedica-logo.jpeg",
+			"humanURL": "http://infermedica.com",
+			"baseURL": "https://api.infermedica.com//v1",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/infermedica/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lifen",
+			"x-api-slug": "lifen",
+			"description": "Lifen est votre messagerie mdicale simple et scurise. Envoyez et recevez des courriers mdicaux entre professionnels de sant. Dmatrialisez jusqu 80% des envois de comptes rendus. Compatible avec tous les logiciels de cabinet et tous les outils ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28166-developers-lifen-fr.jpg",
+			"humanURL": "http://lifen.fr",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/lifen/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Human API",
+			"x-api-slug": "human-api",
+			"description": "Get health data from everywhere. Connect and share real-time health data from medical records, labs, pharmacies, devices, apps, and patient portals.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28171-www-humanapi-co.jpg",
+			"humanURL": "https://www.humanapi.co",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/human-api/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Athena Health",
+			"x-api-slug": "athena-health",
+			"description": "athenahealth is a leading provider of network-enabled services for electronic health records (EHR), revenue cycle management and medical billing, patient engagement, care coordination, and population health management, as well as Epocrates and other po...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28186-www-athenahealth-com.jpg",
+			"humanURL": "https://www.athenahealth.com",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/athena-health/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twine",
+			"x-api-slug": "twine",
+			"description": "Twine Health is a cloud-based collaborative care platform for chronic disease management. It consists of a patient engagement portal, a peer support network, a care management solution, and an outcome analytics tool. The platform enables users to co-create personalized care plans that serve as common ground for collaboration with their care team: their own providers such as physicians and nurse practitioners; their family and friends; and coaches such as nurses, pharmacists, health coaches, and more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twinehealth.png",
+			"humanURL": "http://twinehealth.com",
+			"baseURL": "https://api.twinehealth.com//pub",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/twine/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HAPI-FHIR",
+			"x-api-slug": "hapifhir",
+			"description": "This is the homepage for the HAPI-FHIR library. We are developing an open-source implementation of the FHIR specification in Java. FHIR (Fast Healthcare Interoperability Resources) is a specification for exchanging healthcare data in a modern and developer friendly way",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/hapi_fhir_banner.png",
+			"humanURL": "http://hapifhir.io",
+			"baseURL": "https:///",
+			"tags": "Healthcare",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/hapifhir/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Healthcare",
+	"include": [
+		{
+			"name": "AT&T Dev Program",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/att-dev-program/apis.yaml"
+		},
+		{
+			"name": "eligible",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/eligible/apis.yaml"
+		},
+		{
+			"name": "Walgreens",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/walgreens/apis.yaml"
+		},
+		{
+			"name": "AIDS.gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/aids-gov/apis.yaml"
+		},
+		{
+			"name": "Data.Medicare.Gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/data-medicare-gov/apis.yaml"
+		},
+		{
+			"name": "HealthTap",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/healthtap/apis.yaml"
+		},
+		{
+			"name": "MedlinePlus.gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/medlineplus-gov/apis.yaml"
+		},
+		{
+			"name": "Healthfinder.gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/healthfinder-gov/apis.yaml"
+		},
+		{
+			"name": "Healthnotes",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/healthnotes/apis.yaml"
+		},
+		{
+			"name": "Practice Fusion",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/practice-fusion/apis.yaml"
+		},
+		{
+			"name": "The Cancer",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/the-cancer/apis.yaml"
+		},
+		{
+			"name": "Open PHACTS",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/open-phacts/apis.yaml"
+		},
+		{
+			"name": "Magnus Health",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/magnus-health/apis.yaml"
+		},
+		{
+			"name": "Doximity",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/doximity/apis.yaml"
+		},
+		{
+			"name": "Allscripts",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/allscripts/apis.yaml"
+		},
+		{
+			"name": "KP Digital Health",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/kp-digital-health/apis.yaml"
+		},
+		{
+			"name": "TrueVault",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/truevault/apis.yaml"
+		},
+		{
+			"name": "National Institutes of Health",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/national-institutes-of-health/apis.yaml"
+		},
+		{
+			"name": "Healthcare.gov",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/healthcare-gov/apis.yaml"
+		},
+		{
+			"name": "PokitDok",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/pokitdok/apis.yaml"
+		},
+		{
+			"name": "EhrScape",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/ehrscape/apis.yaml"
+		},
+		{
+			"name": "QI Bench",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/qi-bench/apis.yaml"
+		},
+		{
+			"name": "Validic",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/validic/apis.yaml"
+		},
+		{
+			"name": "BaseHealth",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/basehealth/apis.yaml"
+		},
+		{
+			"name": "BetterDoctor",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/betterdoctor/apis.yaml"
+		},
+		{
+			"name": "Infermedica",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/infermedica/apis.yaml"
+		},
+		{
+			"name": "Lifen",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/lifen/apis.yaml"
+		},
+		{
+			"name": "Human API",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/human-api/apis.yaml"
+		},
+		{
+			"name": "Athena Health",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/athena-health/apis.yaml"
+		},
+		{
+			"name": "Twine",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/twine/apis.yaml"
+		},
+		{
+			"name": "HAPI-FHIR",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/hapifhir/apis.yaml"
+		}
+	]
+}

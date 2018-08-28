@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/10089-kp-d
 x-kinRank: "7"
 x-alexaRank: "2561"
 tags: Healthcare
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/kp-digital-health/apis.md
 specificationVersion: "0.14"
 apis: []

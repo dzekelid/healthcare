@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28166-deve
 x-kinRank: "7"
 x-alexaRank: "1605191"
 tags: Healthcare
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/healthcare/master/_listings/lifen/apis.md
 specificationVersion: "0.14"
 apis: []
